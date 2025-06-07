@@ -1,12 +1,10 @@
 # Interviews 
 
-I prefer the following workflow
-
 ![interview workflow](interview_workflow.png)
 
-
-
 ## Pair programming inteview approaches
+
+I think that #3 yields the best, most consistent experience when you use a generic problem internal interviewers know well.
 
 1. **Platforms like CoderPad, HackerRank, HackerEarth etc.**
 * There can be limitations on the types of problems you can orchastrate and use of testing frameworks.
