@@ -1,9 +1,10 @@
 # engineering_leadership_playbook
 
-## Areas to outline
+
+
+## Working on adding
 1. ladders, maps, directed graphs - thinking about the career journey
-2. 1-on-1s 
-3. post-morterm and other useful templates
+2. useful templates
 4. compensation & promotion notes/tools
 5. managing a team; ceremonies and such
 6. managing a manager
