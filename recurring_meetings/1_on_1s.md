@@ -1,6 +1,6 @@
 # One-on-ones 
 
-I find that you need them every 1-3 weeks depending on the individual.
+I find that you need them every 1-3 weeks depending on the individual. Feedback should be framed with [expectations](../carrer_managment/expectations.md) and [technical leadership](../technical_leadership/)
 
 ### Developer 1:1
 
