@@ -1,7 +1,7 @@
 
 # Post Mortem Workflow
 
-![post-mortem](post_mortem_workflow.png)
+![post-mortem](./images/post_mortem_workflow.png)
 
 # Post Mortem Template 
 

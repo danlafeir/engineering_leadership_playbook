@@ -1,7 +1,7 @@
 # Interviews 
 
-![interview workflow](interview_workflow.png)
-![maanger workflow](manager_workflow.png)
+![interview workflow](./images/interview_workflow.png)
+![maanger workflow](./images/manager_workflow.png)
 
 ## Pair programming inteview approaches
 
