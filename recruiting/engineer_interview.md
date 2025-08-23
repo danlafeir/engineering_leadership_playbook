@@ -1,7 +1,32 @@
-# Interviews 
+# Engineer Interview
 
-![interview workflow](./images/interview_workflow.png)
-![maanger workflow](./images/manager_workflow.png)
+![interview workflow](./images/engineer_workflow.png)
+
+
+## Recruiter Screen
+Objectives:
+1. Can they speak confidently about details in their resume and do they explain it is understandable terms?
+2. Do some basic behavioral queston checks for what we need in this position.
+3. Have the read the role description and anything about the company?
+
+Outside of some basic checks, this time can be used to outline expectations for the interview.
+
+## Hiring Manager Screen
+Objectives:
+1. Assess technical principles and familiarity with design patterns
+2. What is their architecutural awarenesss both of patterns and how to reason about trade-offs
+3. Ask them to teach you something about what they have recently learned to ensure they are curious
+
+> If they are L4^, introduce the take-home assignment
+
+## Pair Programming Interview
+
+
+## Technical Interview
+
+
+
+# Notes -- historical thinking
 
 ## Pair programming inteview approaches
 
