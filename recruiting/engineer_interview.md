@@ -20,7 +20,8 @@ Objectives:
 > If they are L4^, introduce the take-home assignment
 
 ## Pair Programming Interview
-
+Objectives:
+1. 
 
 ## Technical Interview
 
