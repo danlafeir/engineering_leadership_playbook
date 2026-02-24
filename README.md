@@ -3,7 +3,6 @@
 
 
 ## Working on adding
-1. ladders, maps, directed graphs - thinking about the career journey
 2. useful templates
 4. compensation & promotion notes/tools
 5. managing a team; ceremonies and such
