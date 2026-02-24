@@ -2,6 +2,13 @@
 
 
 
+## Contents
+
+- [Career Management](./carrer_managment/career_progression.md)
+  - [Expectations by level](./carrer_managment/expectations.md)
+  - [Year-end self review guidance](./carrer_managment/year-end_self_review_guidance.md)
+  - [Performance Improvement Plans](./carrer_managment/pip.md)
+
 ## Working on adding
 2. useful templates
 4. compensation & promotion notes/tools
